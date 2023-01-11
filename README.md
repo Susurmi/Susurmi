@@ -2,7 +2,7 @@
 
 **`Freetime / Hobby Developer`**
 
-Hi! I'm Alexander Surmann, i like JavaScript and tinkering around with Discord Bots.
+Hi! I'm Susurmi, i like JavaScript and tinkering around with Discord Bots.
 
 Currently i am working on various discord.js Projects, improving my work flow and learning about JavaScript and Programming/Coding in general.
 
